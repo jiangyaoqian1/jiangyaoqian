@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>H</title>
+    <link rel="stylesheet" href="./css/xiaomi.css">
+    <script type="text/javascript">
+        window.onload = function () {
+            var imgs = document.getElementsByClassName("img");
+            var btns = document.getElementsByClassName("btn");
+            console.log("img",imgs.length)
+            var count = 0;
+            setInterval(function () {
+                count++;
+                if (count == 2) {
+                    count = 0;
+                }
+                for (var i = 0; i < imgs.length; i++) {
+                    imgs[i].style.visibility="hidden";
+                    btns[i].style.cssText="background-color: #000"
+                }
+                imgs[count].style.visibility="visible";
+                btns[count].style.cssText="background-color:orange";
+                console.log(count);
+            },3000);
+        }
+
+    </script>
+</head>
+<body>
+<!-- 头部 -->
+    <header>
+        <div class="logo"></div>
+        <img src="img/logo.png" alt="">
+        <img src="img/header.jpg" alt="">
+    </header>
+</body>
+</html>

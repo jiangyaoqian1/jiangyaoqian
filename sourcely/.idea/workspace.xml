@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb459fd9-6368-4f13-9bfb-05e0f9a71add" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/tianmao.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/xiaomi.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/QRcode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/chaoshi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/end-img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/end-img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/erweima.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/food1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/food2-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/food2-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/food2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/food3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/food4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/food5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/food6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/food7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/food8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/footer-help-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/footer-help-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/footer-help-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/footer-help-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/guohui.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/h3-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/h3-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/h3-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/h3-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/h3-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/h3-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/h3-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/h3-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/h3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hk1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hk10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hk2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hk3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hk4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hk5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hk6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hk7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hk8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hk9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jietu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/l1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/l2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/l3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/l4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/l5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/line.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/line2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lunbo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lunbo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lunbo4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lunbo5 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lunbo5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lunbo6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/meizhuangpingpai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/muyinpingpai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/nanzhuangpingpai-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/nanzhuangpingpai-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/nvxiepingpai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/nvzhuangpinpai-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/p12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/p15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/p2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/p4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/p6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/p7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/p9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/qichepingpai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/s5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/s6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shoujipingpai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shoujitianmao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shuiguopingpai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tianmao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tushupingpai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/wanbiaopingpai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/x1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/x10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/x2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/x3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/x4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/x5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/x6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/x7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/x9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/yiyaopingpai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qqsky.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tianmao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaomi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yitao.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tianmao.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="591">
+              <caret line="103" column="19" selection-start-line="103" selection-start-column="19" selection-end-line="103" selection-end-column="19" />
+              <folding>
+                <element signature="e#1288#1294#0" expanded="true" />
+                <element signature="e#1294#1300#0" expanded="true" />
+                <element signature="e#1335#1341#0" expanded="true" />
+                <element signature="e#1341#1347#0" expanded="true" />
+                <element signature="e#2622#2628#0" expanded="true" />
+                <element signature="e#2630#2636#0" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#5;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#7456#7462#0" expanded="true" />
+                <element signature="e#7462#7468#0" expanded="true" />
+                <element signature="e#7468#7474#0" expanded="true" />
+                <element signature="e#8149#8155#0" expanded="true" />
+                <element signature="e#8439#8445#0" expanded="true" />
+                <element signature="e#8735#8741#0" expanded="true" />
+                <element signature="e#16024#16030#0" expanded="true" />
+                <element signature="e#16301#16307#0" expanded="true" />
+                <element signature="e#16319#16325#0" expanded="true" />
+                <element signature="e#20211#20217#0" expanded="true" />
+                <element signature="e#20223#20229#0" expanded="true" />
+                <element signature="e#20790#20796#0" expanded="true" />
+                <element signature="e#21359#21365#0" expanded="true" />
+                <element signature="e#21365#21371#0" expanded="true" />
+                <element signature="e#21371#21377#0" expanded="true" />
+                <element signature="e#21377#21383#0" expanded="true" />
+                <element signature="e#21383#21389#0" expanded="true" />
+                <element signature="e#21670#21676#0" expanded="true" />
+                <element signature="e#21676#21682#0" expanded="true" />
+                <element signature="e#21682#21688#0" expanded="true" />
+                <element signature="e#21688#21694#0" expanded="true" />
+                <element signature="e#21694#21700#0" expanded="true" />
+                <element signature="e#21700#21706#0" expanded="true" />
+                <element signature="e#21706#21712#0" expanded="true" />
+                <element signature="e#21712#21718#0" expanded="true" />
+                <element signature="e#21718#21724#0" expanded="true" />
+                <element signature="e#22015#22021#0" expanded="true" />
+                <element signature="e#22030#22036#0" expanded="true" />
+                <element signature="e#22058#22064#0" expanded="true" />
+                <element signature="e#22065#22071#0" expanded="true" />
+                <element signature="e#22477#22483#0" expanded="true" />
+                <element signature="e#22483#22489#0" expanded="true" />
+                <element signature="e#22549#22555#0" expanded="true" />
+                <element signature="e#22556#22562#0" expanded="true" />
+                <element signature="e#24089#24095#0" expanded="true" />
+                <element signature="e#25330#25336#0" expanded="true" />
+                <element signature="e#25616#25622#0" expanded="true" />
+                <element signature="e#26027#26033#0" expanded="true" />
+                <element signature="e#26033#26039#0" expanded="true" />
+                <element signature="e#26099#26105#0" expanded="true" />
+                <element signature="e#26106#26112#0" expanded="true" />
+                <element signature="e#27639#27645#0" expanded="true" />
+                <element signature="e#28880#28886#0" expanded="true" />
+                <element signature="e#29166#29172#0" expanded="true" />
+                <element signature="e#29464#29470#0" expanded="true" />
+                <element signature="e#29470#29476#0" expanded="true" />
+                <element signature="e#30408#30414#0" expanded="true" />
+                <element signature="e#30872#30878#0" expanded="true" />
+                <element signature="e#30884#30890#0" expanded="true" />
+                <element signature="e#30895#30901#0" expanded="true" />
+                <element signature="e#30906#30912#0" expanded="true" />
+                <element signature="e#31135#31141#0" expanded="true" />
+                <element signature="e#31147#31153#0" expanded="true" />
+                <element signature="e#31376#31382#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaomi.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+              <folding>
+                <element signature="n#script#0;n#head#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/xiaomi.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1188">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/qqsky.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#2;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#0;n#b#0;n#div#1;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yitao.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/tianmao.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1594">
+              <caret line="1491" column="21" lean-forward="true" selection-start-line="1491" selection-start-column="21" selection-end-line="1491" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/chaoshi.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace>img</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/xiaomi.html" />
+        <option value="$PROJECT_DIR$/css/xiaomi.css" />
+        <option value="$PROJECT_DIR$/yitao.html" />
+        <option value="$PROJECT_DIR$/css/tianmao.css" />
+        <option value="$PROJECT_DIR$/tianmao.html" />
+        <option value="$PROJECT_DIR$/qqsky.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/html.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="530" />
+    <option name="width" value="675" />
+    <option name="height" value="826" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\bigdata\html\img" />
+      <recent name="D:\bigdata\html\imgs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb459fd9-6368-4f13-9bfb-05e0f9a71add" name="Default Changelist" comment="" />
+      <created>1558333801586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558333801586</updated>
+      <workItem from="1558333802912" duration="10277000" />
+      <workItem from="1558398632201" duration="5300000" />
+      <workItem from="1558426117200" duration="3720000" />
+      <workItem from="1558485223747" duration="20750000" />
+      <workItem from="1558571775084" duration="3208000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="43255000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07984791" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34347275" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/main.css" />
+    <entry file="file://$PROJECT_DIR$/css/normalize.css" />
+    <entry file="file://$PROJECT_DIR$/doc/extend.md" />
+    <entry file="file://$PROJECT_DIR$/doc/css.md" />
+    <entry file="file://$PROJECT_DIR$/404.html" />
+    <entry file="file://$PROJECT_DIR$/tile.png" />
+    <entry file="file://$PROJECT_DIR$/.gitattributes" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/imgs/s6.png" />
+    <entry file="file://$PROJECT_DIR$/imgs/x1.jpg" />
+    <entry file="file://$PROJECT_DIR$/imgs/x2.jpg" />
+    <entry file="file://$PROJECT_DIR$/imgs/x4.png" />
+    <entry file="file://$PROJECT_DIR$/imgs/x5.png" />
+    <entry file="file://$PROJECT_DIR$/imgs/s5.png" />
+    <entry file="file://$PROJECT_DIR$/imgs/p15.png" />
+    <entry file="file://$PROJECT_DIR$/imgs/p12.jpg" />
+    <entry file="file://$PROJECT_DIR$/imgs/p9.png" />
+    <entry file="file://$PROJECT_DIR$/imgs/p7.png" />
+    <entry file="file://$PROJECT_DIR$/imgs/p6.png" />
+    <entry file="file://$PROJECT_DIR$/imgs/img.png" />
+    <entry file="file://$PROJECT_DIR$/imgs/logo1.jpg" />
+    <entry file="file://$PROJECT_DIR$/imgs/logo.png" />
+    <entry file="file://$PROJECT_DIR$/img/header.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaomi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <element signature="n#script#0;n#head#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/xiaomi.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yitao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/tianmao.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1594">
+          <caret line="1491" column="21" lean-forward="true" selection-start-line="1491" selection-start-column="21" selection-end-line="1491" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tianmao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="103" column="19" selection-start-line="103" selection-start-column="19" selection-end-line="103" selection-end-column="19" />
+          <folding>
+            <element signature="e#1288#1294#0" expanded="true" />
+            <element signature="e#1294#1300#0" expanded="true" />
+            <element signature="e#1335#1341#0" expanded="true" />
+            <element signature="e#1341#1347#0" expanded="true" />
+            <element signature="e#2622#2628#0" expanded="true" />
+            <element signature="e#2630#2636#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#5;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#7456#7462#0" expanded="true" />
+            <element signature="e#7462#7468#0" expanded="true" />
+            <element signature="e#7468#7474#0" expanded="true" />
+            <element signature="e#8149#8155#0" expanded="true" />
+            <element signature="e#8439#8445#0" expanded="true" />
+            <element signature="e#8735#8741#0" expanded="true" />
+            <element signature="e#16024#16030#0" expanded="true" />
+            <element signature="e#16301#16307#0" expanded="true" />
+            <element signature="e#16319#16325#0" expanded="true" />
+            <element signature="e#20211#20217#0" expanded="true" />
+            <element signature="e#20223#20229#0" expanded="true" />
+            <element signature="e#20790#20796#0" expanded="true" />
+            <element signature="e#21359#21365#0" expanded="true" />
+            <element signature="e#21365#21371#0" expanded="true" />
+            <element signature="e#21371#21377#0" expanded="true" />
+            <element signature="e#21377#21383#0" expanded="true" />
+            <element signature="e#21383#21389#0" expanded="true" />
+            <element signature="e#21670#21676#0" expanded="true" />
+            <element signature="e#21676#21682#0" expanded="true" />
+            <element signature="e#21682#21688#0" expanded="true" />
+            <element signature="e#21688#21694#0" expanded="true" />
+            <element signature="e#21694#21700#0" expanded="true" />
+            <element signature="e#21700#21706#0" expanded="true" />
+            <element signature="e#21706#21712#0" expanded="true" />
+            <element signature="e#21712#21718#0" expanded="true" />
+            <element signature="e#21718#21724#0" expanded="true" />
+            <element signature="e#22015#22021#0" expanded="true" />
+            <element signature="e#22030#22036#0" expanded="true" />
+            <element signature="e#22058#22064#0" expanded="true" />
+            <element signature="e#22065#22071#0" expanded="true" />
+            <element signature="e#22477#22483#0" expanded="true" />
+            <element signature="e#22483#22489#0" expanded="true" />
+            <element signature="e#22549#22555#0" expanded="true" />
+            <element signature="e#22556#22562#0" expanded="true" />
+            <element signature="e#24089#24095#0" expanded="true" />
+            <element signature="e#25330#25336#0" expanded="true" />
+            <element signature="e#25616#25622#0" expanded="true" />
+            <element signature="e#26027#26033#0" expanded="true" />
+            <element signature="e#26033#26039#0" expanded="true" />
+            <element signature="e#26099#26105#0" expanded="true" />
+            <element signature="e#26106#26112#0" expanded="true" />
+            <element signature="e#27639#27645#0" expanded="true" />
+            <element signature="e#28880#28886#0" expanded="true" />
+            <element signature="e#29166#29172#0" expanded="true" />
+            <element signature="e#29464#29470#0" expanded="true" />
+            <element signature="e#29470#29476#0" expanded="true" />
+            <element signature="e#30408#30414#0" expanded="true" />
+            <element signature="e#30872#30878#0" expanded="true" />
+            <element signature="e#30884#30890#0" expanded="true" />
+            <element signature="e#30895#30901#0" expanded="true" />
+            <element signature="e#30906#30912#0" expanded="true" />
+            <element signature="e#31135#31141#0" expanded="true" />
+            <element signature="e#31147#31153#0" expanded="true" />
+            <element signature="e#31376#31382#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/chaoshi.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qqsky.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#2;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#0;n#b#0;n#div#1;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
